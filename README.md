@@ -26,10 +26,6 @@ This project applies time series analysis and machine learning techniques to ana
 
 **🧠 Machine Learning / Analytical Models Used**
  
- -ARIMA / SARIMA – for time series forecasting
-
- -LSTM Neural Networks – to capture long-term dependencies in BTC price trends
-
  -Random Forest Regressor – for supervised learning prediction
 
  -Linear Regression / XGBoost – for baseline model comparison
